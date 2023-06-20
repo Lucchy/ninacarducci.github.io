@@ -40,6 +40,7 @@ body {
 
 .social-link img {
 	width: 20px;
+	height: 20px;
 }
 
 .carousel-inner div img {
@@ -72,6 +73,8 @@ body {
 }
 
 .picture img {
+	height: 450px;
+	object-fit: cover;
 	width: 100%;
 
 }
